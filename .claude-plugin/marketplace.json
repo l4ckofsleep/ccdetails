@@ -1,0 +1,13 @@
+{
+  "name": "session-meter",
+  "owner": {
+    "name": "l4ckofsleep"
+  },
+  "plugins": [
+    {
+      "name": "session-meter",
+      "source": "./"
+    }
+  ],
+  "description": "session-meter: context, cache hit %, rate limits and cost above the Claude Code prompt"
+}

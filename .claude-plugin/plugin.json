@@ -1,0 +1,10 @@
+{
+  "name": "session-meter",
+  "version": "0.1.0",
+  "description": "Collapsible band above the prompt: context fill, rate limits, session cost and prompt-cache hit %",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "l4ckofsleep"
+  },
+  "repository": "https://github.com/l4ckofsleep/ccdetails"
+}
